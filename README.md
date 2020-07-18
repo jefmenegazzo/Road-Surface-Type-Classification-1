@@ -4,7 +4,8 @@ This project contains the Artificial Intelligence models and experiments develop
 
 ## Article
 
-Click [here]() to access the article.
+* Click [here]() to access the pre-print.
+* Click [here]() to access the published article.
 
 ## Notebooks
 
@@ -13,3 +14,11 @@ The jupyter notebooks present in the folders correspond to the applied technique
 ## Experiments
 
 This folder contains all the experiments performed. Each folder stores the experiments of a technique, among the generated models and execution logs.
+
+## How To Cite
+
+To cite research article, use the reference below:
+
+```bibtex
+TODO
+```
