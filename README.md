@@ -4,7 +4,7 @@ This project contains the Artificial Intelligence models and experiments develop
 
 ### Notebooks
 
-The jupyter notebooks present in the folders correspond to the applied techniques. To run the models, just change the folders where the datasets are located (*datasets_folder*) and the work folder that has the experiments (*work_folder*).  These parameters are in the files **Classical Methods - Processing.ipynb** and **Deep Learning - Processing.ipynb files**. Other instructions are documented in the source code.
+The jupyter notebooks present in the folders correspond to the applied techniques. To run the models, just change the folders where the datasets are located (*datasets_folder*) and the work folder that has the experiments (*work_folder*).  These parameters are in the files **Classical Methods - Processing.ipynb** and **Deep Learning - Processing.ipynb**. Other instructions are documented in the source code.
 
 ### Experiments
 
