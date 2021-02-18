@@ -14,20 +14,31 @@ This folder contains all the experiments performed. Each folder stores the exper
 
 You can request a full text for free at: 
 
-* TODO
+* [Research Gate](https://www.researchgate.net/publication/349368426_Road_Surface_Type_Classification_Based_on_Inertial_Sensors_and_Machine_Learning_A_Comparison_Between_Classical_and_Deep_Machine_Learning_Approaches_for_Multi-Contextual_Real-World_Scenarios)
 
 Or in scientific databases:
 
-* TODO
+* [Springer Link](https://link.springer.com/article/10.1007/s00607-021-00914-0)
 
 ## How to Cite
 
 To cite this paper use:
 
 ```
-TODO
+Menegazzo, J., von Wangenheim, A. Road surface type classification based on inertial sensors and machine learning. Computing (2021). https://doi.org/10.1007/s00607-021-00914-0
 ```
 
 ```bibtex
-TODO
+@article{menegazzo_road_2021,
+	title = {Road surface type classification based on inertial sensors and machine learning},
+	issn = {1436-5057},
+	url = {https://doi.org/10.1007/s00607-021-00914-0},
+	doi = {10.1007/s00607-021-00914-0},
+	language = {en},
+	urldate = {2021-02-18},
+	journal = {Computing},
+	author = {Menegazzo, Jeferson and von Wangenheim, Aldo},
+	month = feb,
+	year = {2021}
+}
 ```
