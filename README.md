@@ -42,3 +42,7 @@ Menegazzo, J., von Wangenheim, A. Road surface type classification based on iner
 	year = {2021}
 }
 ```
+
+## License
+
+This project is under Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0). Please see [License File](LICENSE.txt) for more information.
